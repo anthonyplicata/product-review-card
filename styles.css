@@ -4,3 +4,37 @@ body {
     max-width: 1440px;
     min-width: 375px;
 }
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+}
+
+h2, .green {
+    font-family: 'Fraunces', serif;
+    font-weight: 700;
+}
+
+.green {
+    font-size: 3rem;
+    color: hsl(158, 36%, 37%);
+}
+
+button {
+    background-color: hsl(158, 36%, 37%);
+    color: white;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    max-width: 1440px;
+    min-width: 375px;
+
+}
+
+img {
+    height: 450px;
+    margin: 0 auto;
+}
