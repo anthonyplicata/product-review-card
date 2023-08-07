@@ -29,9 +29,9 @@ Users should be able to:
 
 ### Screenshot
 
-![screenshot1-desktop](https://github.com/anthonyplicata/product-review-card/blob/ea53a03e7f811484187238f197112053bb32bb21/images/screenshot_desktop.png)
+![screenshot1-desktop](https://github.com/anthonyplicata/product-review-card/blob/74fcb817af1f5369aa0f186b7e12660fba23e4fe/images/Screenshot%202023-08-07%20at%201.16.51%20PM.png)
 
-![screenshot-mobile](https://github.com/anthonyplicata/product-review-card/blob/ea53a03e7f811484187238f197112053bb32bb21/images/screenshot_mobile.png)
+![screenshot-mobile](https://github.com/anthonyplicata/product-review-card/blob/74fcb817af1f5369aa0f186b7e12660fba23e4fe/images/Screenshot%202023-08-07%20at%201.16.40%20PM.png)
 
 ### Links
 
